@@ -67,13 +67,14 @@
 }
 
 .popup{
-    height: auto;
-    width: 50%;
+    height: 200px;
+    width:70%;
     z-index: 1;
     position: fixed;
     background-color: white;
     border: 1px solid;
     padding: 20px;
+    overflow-y: auto;
     
 
 
